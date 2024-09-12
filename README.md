@@ -20,12 +20,14 @@
 - QA Testing Automation;
 - API Desing;
 - Batch Processing;
-- [TCA-Tool - Ongoing](https://github.com/Paulo-Possatto/TCA-Tool)
 # SKILLS:
 #### HARD SKILLS:
 - Java;
 - Spring Boot;
 - MySQL;
+- PostgreSQL;
+- SonarQube;
+- Git;
 - Docker;
 - JavaScript;
 - HTML;
