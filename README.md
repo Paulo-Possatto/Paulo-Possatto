@@ -20,6 +20,7 @@
 - QA Testing Automation;
 - API Desing;
 - Batch Processing;
+- Financial Crime Report;
 # SKILLS:
 #### HARD SKILLS:
 - Java;
@@ -63,6 +64,7 @@
 - UDEMY:
   - [Docker Completo - Do Zero ao Avançado](https://www.udemy.com/certificate/UC-04210c7b-71f1-406e-9309-4410f8ac0586/)
   - [MySQL Developer Expert - Básico ao Avançado](https://www.udemy.com/certificate/UC-8755dc8d-3c47-4aa5-ac47-109d69e3fdaf/)
+  - [Git Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-d3fc8feb-6080-450f-ba5f-ad3e70480a29/)
   - Batch Processing with Spring Batch & Spring Boot (This training was done with company user, so there was no certificate in my name)
   - Microsserviços do 0 com Spring Cloud, Spring Boot e Docker (Ongoing)
   - Criando Apps Android/IOS/Web com Flutter (Ongoing)
@@ -72,11 +74,11 @@
 - Portuguese - Native
 - English - Advanced C1
 - Spanish - Intermediate B2
-- Italian - Intermediate B2
+- Italian - Intermediate B1
 
 # OTHERS:
 ###### CITY:
-- Benalmádena, Andaluzia, Spain;
+- Málaga, Andaluzia, Spain;
 ###### NATIONALITY:
 - Brazilian and Spanish
 ###### CONTACTS:
