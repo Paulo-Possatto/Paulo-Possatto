@@ -1,86 +1,18 @@
-# INTRODUCTION:
-👋 Hello, my name is Paulo Possatto, nice to see you here. 
+# About Me:
+Hi, I'm Paulo Possatto, a passionate and detail-oriented Back-end Developer specializing in Java and Spring Boot. With over 5 years of experience in building robust, scalable, and high-performance server-side applications, I thrive on solving complex problems and delivering efficient solutions that power seamless user experiences.<br><br>My expertise lies in designing and developing RESTful APIs, microservices architectures, and database-driven applications. I have a strong foundation in core Java concepts, object-oriented programming (OOP), and design patterns, which I leverage to write clean, maintainable, and well-documented code.<br><br>I am proficient in using the Spring ecosystem, including Spring Boot, Spring MVC and Spring Data JPA, to create efficient back-end systems. I also have experience with relational databases like MySQL and PostgreSQL and non-relational like MongoDB, as well as tools like Maven, Git, and Docker for streamlined development and deployment.<br><br>What drives me is the opportunity to continuously learn and adapt to new technologies and best practices in the ever-evolving world of software development. I enjoy collaborating with cross-functional teams to deliver high-quality solutions that meet both business and technical requirements.<br><br>When I'm not coding, you can find me going to the Gym, playing guitar or watching a good movie.<br><br>Feel free to conect or send me a message by the social medias below.
 
-💻 I'm a web developer with emphasis in backend development using Java and Spring Boot.
 
-📚 I'm graduated in Electrical Engineering, but I've been working with software development for 4 years now.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulopossatto) 
 
-👀 Feel free to look around, and if you want to get in contact, there's my contacts at the bottom of the page.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Paulo-Possatto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Paulo-Possatto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Possatto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-😄 Looking foward to your contact, best regards.
-# PROJECTS:
-- Energy Efficiency and Sustainable Construction;
-- Growth and Chatacterization of Thin Films of Cerium Oxide for Application in Devices;
-- Auto Testing with Python and ADB;
-- Cost Control Tools Microsservice;
-- Hardware Development for Energy Measurement;
-- Java Web Development with Spring Boot;
-- Failure Alarms Automation;
-- Java Web Technical Support;
-- QA Testing Automation;
-- API Desing;
-- Batch Processing;
-- Financial Crime Report;
-# SKILLS:
-#### HARD SKILLS:
-- Java;
-- Spring Boot;
-- MySQL;
-- PostgreSQL;
-- SonarQube;
-- Git;
-- Docker;
-- JavaScript;
-- HTML;
-- CSS;
-- TypeScript;
-- Angular;
+---
+[![](https://visitcount.itsvg.in/api?id=Paulo-Possatto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### SOFT SKILLS:
-- Effective communication;
-- Team work;
-- Conflict resolution;
-- Leadership;
-- Resilience;
-- Professional ethics;
-- Empathy;
-- Feedback Culture;
-- Critical Thinking;
-# EDUCATION:
-- __ELECTRICAL ENGINEERING__:
-  - *Where*: [Pontifícia Universidade Católica de Campinas](https://www.puc-campinas.edu.br/), Campinas, São Paulo, Brazil.
-  - *Grade*: 7.0
-  - *Studies*:
-    - Embedded Systems;
-    - Logic Circuits;
-    - Analog and Digital Electronics;
-    - Generation, Production and Distribution of Energy;
-    - Energy Efficiency;
-    - Electrical Power Systems; 
-
-# CERTIFICATES:
-- GOOGLE:
-  - [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/4N66U2SB4DNB)
-- UDEMY:
-  - [Docker Completo - Do Zero ao Avançado](https://www.udemy.com/certificate/UC-04210c7b-71f1-406e-9309-4410f8ac0586/)
-  - [MySQL Developer Expert - Básico ao Avançado](https://www.udemy.com/certificate/UC-8755dc8d-3c47-4aa5-ac47-109d69e3fdaf/)
-  - [Git Completo - Do Básico ao Avançado](https://www.udemy.com/certificate/UC-d3fc8feb-6080-450f-ba5f-ad3e70480a29/)
-  - Batch Processing with Spring Batch & Spring Boot (This training was done with company user, so there was no certificate in my name)
-  - Microsserviços do 0 com Spring Cloud, Spring Boot e Docker (Ongoing)
-  - Criando Apps Android/IOS/Web com Flutter (Ongoing)
-  - Build Responsive Real-World Websites with HTML and CSS (Ongoing)
-
-# LANGUAGES:
-- Portuguese - Native
-- English - Advanced C1
-- Spanish - Intermediate B2
-- Italian - Intermediate B1
-
-# OTHERS:
-###### CITY:
-- Málaga, Andaluzia, Spain;
-###### NATIONALITY:
-- Brazilian and Spanish
-###### CONTACTS:
-- [LinkedIn](https://www.linkedin.com/in/paulopossatto/)
-- [Email](mailto:paulo.possatto@outlook.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
